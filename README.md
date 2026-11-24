@@ -14,4 +14,6 @@ Durante a preparação e a apresentação para o público externo, pude aplicar 
 
 ## Índice do Repositório
 * [`Apresentacao_Casa_Inteligente_final.html`](Apresentacao_Casa_Inteligente_final.html) - Apresentação de slides utilizada no evento.
-* [`maquete-equipe/`](maquete-equipe/) - Registros fotográficos da maquete física em funcionamento e da equipe no estande.
+* [`fotos.md`](fotos.md) - Registros fotográficos da maquete física em funcionamento e da equipe no estande.
+* [`feedbacks.md`](feedbacks.md) - Comentários recebidos de visitantes, colegas e docentes, além de pontos de melhoria.
+* [`PROCESSO.md`](PROCESSO.md) - Etapas de desenvolvimento e organização deste registro.
