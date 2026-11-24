@@ -13,7 +13,7 @@ Durante a preparação e a apresentação para o público externo, pude aplicar 
 * **Interface Web e Firmware (ESP32):** Desenvolvidos pelo professor **Iago Teixeira**.
 
 ## Índice do Repositório
-* [Apresentação de Slides Interativa](https://github.io) - Slides utilizados na apresentação do evento (abre direto no navegador).
+* [Apresentação de Slides Interativa](https://llgimenez.github.io/mundo-senai-2026/Apresentacao_Casa_Inteligente_final.html) - Slides utilizados na apresentação do evento (abre direto no navegador).
 * [`fotos.md`](fotos.md) - Registros fotográficos da maquete física em funcionamento e da equipe no estande.
 * [`feedbacks.md`](feedbacks.md) - Comentários recebidos de visitantes, colegas e docentes, além de pontos de melhoria.
 * [`PROCESSO.md`](PROCESSO.md) - Etapas de desenvolvimento e organização deste registro.
