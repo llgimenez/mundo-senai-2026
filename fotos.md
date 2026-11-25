@@ -2,7 +2,7 @@
 
 Equipe do curso Técnico em Informática para Internet reunida na bancada de apresentação do projeto de Sistemas Embarcados e IoT durante o Mundo SENAI 2026.
 
-<img width="701" height="682" alt="Mídia (13)" src="https://github.com/user-attachments/assets/ae644b5d-cf1d-4857-a560-0833be133ee3" />
+<img width="673" height="618" alt="Mídia (18)" src="https://github.com/user-attachments/assets/ac861fea-11aa-45b1-9e32-b8bafea1bc24" />
 
 Detalhe da maquete automatizada, destacando a estrutura das residências e os sensores integrados ao sistema embarcado.
 
