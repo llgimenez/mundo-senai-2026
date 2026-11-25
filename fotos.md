@@ -15,3 +15,7 @@ Montagem frontal da maquete exibindo a protoboard de conexões e a sirene do sis
 Visão superior completa do projeto em funcionamento, mostrando as residências da maquete, a protoboard com o microcontrolador ESP32, sensores e atuadores controlados pela página web.
 
 <img width="1600" height="720" alt="Mídia (17)" src="https://github.com/user-attachments/assets/404b991d-09f1-4c66-8c69-8dd6173b72a1" />
+
+Painel de controle interativo da Maquete IoT, exibindo a planta dos ambientes, acionamento de iluminação, sensores e sistema de alarme integrados ao ESP32- desenvolvido pelo professor Iago Teixeira
+
+<img width="1908" alt="Captura de tela 2026-11-24 172810" src="https://github.com/user-attachments/assets/60147c1f-fb90-4cf5-b643-96ebca801cf9" />
